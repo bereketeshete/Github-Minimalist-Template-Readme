@@ -2,6 +2,10 @@
 Read me template, including tables, highlights and more stuff
 
 <br>
+**Variables**
+$$V = RI$$ 
+
+<br>
 Table 
 
 | Current (A) | Voltage (V) |
