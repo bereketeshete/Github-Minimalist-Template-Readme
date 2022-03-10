@@ -2,7 +2,8 @@
 Read me template, including tables, highlights and more stuff
 
 <br>
-**Variables** <br>
+**Variables** 
+<br>
 $V$
 
 <br>
