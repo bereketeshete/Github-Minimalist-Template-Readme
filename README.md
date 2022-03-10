@@ -3,9 +3,7 @@ Read me template, including tables, highlights and more stuff
 
 <br>
 <hr>
-</hr>
-**Table**
-
+Table
 
 | Current (A) | Voltage (V) |
 |-------------|-------------|
@@ -14,3 +12,11 @@ Read me template, including tables, highlights and more stuff
 | 0.4         | 2.06        |
 | 0.5         | 2.47        |
 | 0.6         | 3.17        |
+
+-----------------------------------------------
+<br>
+Thin Line
+-----
+<br>
+
+-----------------------------------------------
