@@ -3,6 +3,7 @@ Read me template, including tables, highlights and more stuff
 
 <br>
 <hr>
+</hr>
 **Table**
 
 
