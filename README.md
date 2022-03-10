@@ -2,11 +2,8 @@
 Read me template, including tables, highlights and more stuff
 
 <br>
-**Variables** 
-<br>
-$V$
-
-<br>
+<hr>
+**Table**
 Table 
 
 | Current (A) | Voltage (V) |
