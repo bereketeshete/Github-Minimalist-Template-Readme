@@ -3,7 +3,7 @@ Read me template, including tables, highlights and more stuff
 
 <br>
 **Variables** <br>
-$$V = RI$$ 
+$V$
 
 <br>
 Table 
